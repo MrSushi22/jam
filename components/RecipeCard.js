@@ -48,7 +48,7 @@ export default function RecipeCard({ recipe }) {
           color: #777;
         }
         .actions {
-          margin-top: 20px;
+          margin-top: 10px;
           display: flex;
           justify-content: flex-end;
         }
